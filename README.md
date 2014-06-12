@@ -11,7 +11,7 @@ CREATE TABLE fc_ocorrencias
   descricao_ocorrencia character varying(255) NOT NULL,
   geom geometry(Point,3857),
   CONSTRAINT fc_ocorrencias_pkey PRIMARY KEY (id)
-)
+  )
 WITH (
   OIDS=FALSE
 );
