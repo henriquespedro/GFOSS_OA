@@ -1,0 +1,37 @@
+10
+
+dir
+98
+http://forge.cm-ourem.pt/svn/websig/trunk/web/public_html/lib/GeoExt/resources/images
+http://forge.cm-ourem.pt/svn/websig
+
+
+
+2014-01-20T17:17:31.875388Z
+3
+cm0721
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+869304ce-1fb0-4f7d-ad0b-855e757356c7
+
+default
+dir
+
+gray
+dir
+
+slate
+dir
+

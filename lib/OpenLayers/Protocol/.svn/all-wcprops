@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Protocol
+END
+SOS.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Protocol/SOS.js
+END
+CSW.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Protocol/CSW.js
+END
+WFS.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Protocol/WFS.js
+END
+Script.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Protocol/Script.js
+END
+HTTP.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Protocol/HTTP.js
+END

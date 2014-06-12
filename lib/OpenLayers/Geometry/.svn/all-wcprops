@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Geometry
+END
+MultiPoint.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Geometry/MultiPoint.js
+END
+LinearRing.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Geometry/LinearRing.js
+END
+LineString.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Geometry/LineString.js
+END
+MultiPolygon.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Geometry/MultiPolygon.js
+END
+Point.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Geometry/Point.js
+END
+Curve.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Geometry/Curve.js
+END
+MultiLineString.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Geometry/MultiLineString.js
+END
+Collection.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Geometry/Collection.js
+END
+Polygon.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Geometry/Polygon.js
+END

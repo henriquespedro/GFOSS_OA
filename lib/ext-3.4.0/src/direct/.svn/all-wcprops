@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/ext-3.4.0/src/direct
+END
+PollingProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/ext-3.4.0/src/direct/PollingProvider.js
+END
+RemotingProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/ext-3.4.0/src/direct/RemotingProvider.js
+END
+Provider.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/ext-3.4.0/src/direct/Provider.js
+END
+Transaction.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/ext-3.4.0/src/direct/Transaction.js
+END
+Event.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/ext-3.4.0/src/direct/Event.js
+END
+JsonProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/ext-3.4.0/src/direct/JsonProvider.js
+END
+Direct.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/ext-3.4.0/src/direct/Direct.js
+END

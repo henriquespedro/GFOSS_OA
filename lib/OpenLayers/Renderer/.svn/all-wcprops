@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/websig/!svn/ver/41/trunk/web/public_html/lib/OpenLayers/Renderer
+END
+Elements.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Renderer/Elements.js
+END
+VML.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Renderer/VML.js
+END
+CanvasHeatMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/websig/!svn/ver/41/trunk/web/public_html/lib/OpenLayers/Renderer/CanvasHeatMap.js
+END
+SVG.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Renderer/SVG.js
+END
+Canvas.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Renderer/Canvas.js
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/98/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets
+END
+LegendPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/LegendPanel.js
+END
+Action.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/Action.js
+END
+PrintMapPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/PrintMapPanel.js
+END
+ZoomSlider.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/ZoomSlider.js
+END
+form.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/form.js
+END
+VectorLegend.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/VectorLegend.js
+END
+LayerLegend.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/LayerLegend.js
+END
+LegendImage.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/LegendImage.js
+END
+UrlLegend.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/UrlLegend.js
+END
+Popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/Popup.js
+END
+LayerOpacitySlider.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/LayerOpacitySlider.js
+END
+WMSLegend.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/WMSLegend.js
+END
+FeatureRenderer.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/FeatureRenderer.js
+END
+MapPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/GeoExt/lib/GeoExt/widgets/MapPanel.js
+END

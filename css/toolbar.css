@@ -1,0 +1,160 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/Jan/2014, 17:01:21
+    Author     : cm0721
+*/
+
+.required {
+    background-image:none;
+    background-color:#000000;
+}
+.menus {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.smallmap {
+    width: 512px;
+    height: 256px;
+    border: 1px solid #ccc;
+}
+
+.ico-test {
+    background-color:#352788;
+    width:15px;
+    height:15px;
+    background-image:none !important;
+}
+
+.zoomin {
+    background-image: url(../img/zoom-in-icon.png) !important;
+    height:48px !important;
+    width:54px !important;
+}
+.zoomout {
+    background-image: url(../img/zoom-out-icon.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.zoomfull {
+    background-image: url(../img/Vista_Inicial.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.pan {
+    background-image: url(../img/pan.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.back {
+    background-image: url(../img/Vista_Anterior.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.next {
+    background-image: url(../img/Vista_Seguinte.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.distancia {
+    background-image: url(../img/distancia.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.area {
+    background-image: url(../img/Area.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.desenhar_poligono {
+    background-image: url(../img/Desenhar_Poligono.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.desenhar_ponto {
+    background-image: url(../img/Desenhar_Ponto.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.desenhar_linha {
+    background-image: url(../img/Desenhar_Linha.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.lupa {
+    background-image: url(../img/lupa.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.pesquisa_freguesia {
+    background-image: url(../img/freguesia.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.pesquisa_lugar {
+    background-image: url(../img/lugar.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.pesquisa_cadastro {
+    background-image: url(../img/lugar_cadastro.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.pesquisa_toponimo {
+    background-image: url(../img/toponimo.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.pesquisa_npolicia {
+    background-image: url(../img/numero_policia.png) !important;
+    height:48px !important;
+    width:48px !important;
+}
+.login {
+    background-image: url(../img/login.png) !important;
+}
+
+
+//Style para a ferramenta de switcher Layer
+
+.olAlphaImg {
+    opacity:0.45;
+    filter: alpha(opacity = 45);
+}
+
+.olControlLayerSwitcher .layersDiv {
+    opacity:0.85; 
+    filter: alpha(opacity = 85);
+    background-color: #D5D5D5;
+    -moz-border-radius: 15px 0px 0px 15px;
+    border-radius: 15px 0px 0px 15px;
+}
+
+.olControlLayerSwitcher {
+    color:#666666;
+    -moz-border-radius: 15px 0px 0px 15px;
+    border-radius: 15px 0px 0px 15px;
+    width:19em;
+}
+
+.olButton {
+    font-weight:500;
+}
+
+.labelSpan {
+    font-family: "Open Sans","Helvetica Neue","Helvetica","Arial,sans-serif";
+}
+
+.olControlLayerSwitcher br {
+    display:none;
+}
+
+
+.baseLbl {
+    display:none;
+}

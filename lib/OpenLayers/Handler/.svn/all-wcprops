@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler
+END
+Keyboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/Keyboard.js
+END
+Feature.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/Feature.js
+END
+MouseWheel.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/MouseWheel.js
+END
+Path.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/Path.js
+END
+Drag.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/Drag.js
+END
+Point.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/Point.js
+END
+RegularPolygon.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/RegularPolygon.js
+END
+Hover.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/Hover.js
+END
+Box.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/Box.js
+END
+Polygon.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/Polygon.js
+END
+Pinch.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/Pinch.js
+END
+Click.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Handler/Click.js
+END

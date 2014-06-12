@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/websig/!svn/ver/87/trunk/web/public_html/lib/OpenLayers/Control
+END
+Navigation.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Navigation.js
+END
+TouchNavigation.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/TouchNavigation.js
+END
+LayerSwitcher.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/LayerSwitcher.js
+END
+DrawFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/DrawFeature.js
+END
+ZoomPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/ZoomPanel.js
+END
+PanZoom.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/PanZoom.js
+END
+PinchZoom.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/PinchZoom.js
+END
+Permalink.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Permalink.js
+END
+Scale.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Scale.js
+END
+ExportMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/websig/!svn/ver/41/trunk/web/public_html/lib/OpenLayers/Control/ExportMap.js
+END
+PanPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/PanPanel.js
+END
+Panel.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Panel.js
+END
+OverviewMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/OverviewMap.js
+END
+PanZoomBar.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/PanZoomBar.js
+END
+WMTSGetFeatureInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/WMTSGetFeatureInfo.js
+END
+Geolocate.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Geolocate.js
+END
+GetFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/GetFeature.js
+END
+DynamicMeasure.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/websig/!svn/ver/87/trunk/web/public_html/lib/OpenLayers/Control/DynamicMeasure.js
+END
+Pan.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Pan.js
+END
+Snapping.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Snapping.js
+END
+KeyboardDefaults.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/KeyboardDefaults.js
+END
+CacheRead.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/CacheRead.js
+END
+ZoomBox.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/ZoomBox.js
+END
+Bookmark.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/24/trunk/web/public_html/lib/OpenLayers/Control/Bookmark.js
+END
+Graticule.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Graticule.js
+END
+ArgParser.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/ArgParser.js
+END
+Zoom.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Zoom.js
+END
+Button.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Button.js
+END
+MousePosition.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/MousePosition.js
+END
+UTFGrid.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/UTFGrid.js
+END
+WMSGetFeatureInfo.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/WMSGetFeatureInfo.js
+END
+TransformFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/TransformFeature.js
+END
+DragPan.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/DragPan.js
+END
+SLDSelect.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/SLDSelect.js
+END
+EditingToolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/EditingToolbar.js
+END
+DragFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/DragFeature.js
+END
+NavigationHistory.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/NavigationHistory.js
+END
+ZoomToMaxExtent.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/ZoomToMaxExtent.js
+END
+Attribution.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Attribution.js
+END
+ScaleLine.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/ScaleLine.js
+END
+Measure.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/websig/!svn/ver/86/trunk/web/public_html/lib/OpenLayers/Control/Measure.js
+END
+CacheWrite.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/CacheWrite.js
+END
+ModifyFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/ModifyFeature.js
+END
+ZoomOut.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/ZoomOut.js
+END
+SelectFeature.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/SelectFeature.js
+END
+Split.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/Split.js
+END
+NavToolbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/NavToolbar.js
+END
+ZoomIn.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Control/ZoomIn.js
+END

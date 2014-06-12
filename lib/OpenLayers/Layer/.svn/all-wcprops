@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer
+END
+WMTS.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/WMTS.js
+END
+ArcGIS93Rest.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/ArcGIS93Rest.js
+END
+Text.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/Text.js
+END
+Grid.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/Grid.js
+END
+ArcGISCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/ArcGISCache.js
+END
+Bing.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/Bing.js
+END
+MapGuide.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/MapGuide.js
+END
+WMS.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/WMS.js
+END
+ArcIMS.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/ArcIMS.js
+END
+KaMapCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/KaMapCache.js
+END
+Image.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/Image.js
+END
+PointTrack.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/PointTrack.js
+END
+WorldWind.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/WorldWind.js
+END
+XYZ.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/XYZ.js
+END
+FixedZoomLevels.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/FixedZoomLevels.js
+END
+PointGrid.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/PointGrid.js
+END
+TileCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/TileCache.js
+END
+UTFGrid.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/UTFGrid.js
+END
+Zoomify.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/Zoomify.js
+END
+OSM.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/OSM.js
+END
+HTTPRequest.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/HTTPRequest.js
+END
+KaMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/KaMap.js
+END
+Vector.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/Vector.js
+END
+EventPane.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/EventPane.js
+END
+GeoRSS.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/GeoRSS.js
+END
+MapServer.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/MapServer.js
+END
+SphericalMercator.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/SphericalMercator.js
+END
+TMS.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/TMS.js
+END
+Markers.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/Markers.js
+END
+Google.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/Google.js
+END
+Boxes.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/websig/!svn/ver/3/trunk/web/public_html/lib/OpenLayers/Layer/Boxes.js
+END
