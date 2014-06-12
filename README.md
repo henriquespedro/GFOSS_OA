@@ -1,4 +1,4 @@
-1 - Criar tabela de registo de ocorrências ambientais
+...::: 1 - Criar tabela de registo de ocorrências ambientais :::...
 
 CREATE TABLE fc_ocorrencias
 (
@@ -17,11 +17,22 @@ WITH (
 );
 
 
-2 - No ficheiro JS/init.js adicionar as layers que se pretende disponibilizar na LayerStore
+
+
+
+
+
+...::: 2 - No ficheiro JS/init.js adicionar as layers que se pretende disponibilizar na LayerStore :::...
 
 var LayersStore = [{layer: 'xptolayer', label: 'xptolabel', visible: true, group: 'xptogroup'}];
 
 
-3 - Nos ficheiros PHP/pesquisas.php e PHP/ocorrencias/registo.php preencher com os dados de acesso à base de dados de PostGIS
 
-4 - No ficheiro PHP/ocorrencias/registo.php definir os dados para utilização do smtp
+
+...::: 3 - Nos ficheiros PHP/pesquisas.php e PHP/ocorrencias/registo.php preencher com os dados de acesso à base de dados de PostGIS :::...
+
+
+
+
+
+...::: 4 - No ficheiro PHP/ocorrencias/registo.php definir os dados para utilização do smtp :::...
