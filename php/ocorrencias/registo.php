@@ -60,7 +60,7 @@ $message .= "</body></html>";
 $mail = new PHPMailer; //Construtor
 $mail->IsSMTP();
 
-// Para usar no caso de ser um smtp especifico, como é o caso da CMO
+// Para usar no caso de ser um smtp especifico
 $mail->Host = SMTP_HOST;
 $mail->Port = SMTP_PORT;
 $mail->SMTPAuth = true;
